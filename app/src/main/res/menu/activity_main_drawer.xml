@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_personajes"
+            android:icon="@drawable/ic_leia"
+            android:title="@string/personajes" />
+        <item
+            android:id="@+id/nav_peli1"
+            android:icon="@drawable/ic_c3po"
+            android:title="@string/peli1" />
+        <item
+            android:id="@+id/nav_peli2"
+            android:icon="@drawable/ic_clon"
+            android:title="@string/peli2" />
+        <item
+            android:id="@+id/nav_peli3"
+            android:icon="@drawable/ic_boba"
+            android:title="@string/peli3" />
+        <item
+            android:id="@+id/nav_peli4"
+            android:icon="@drawable/ic_chuwi"
+            android:title="@string/peli4" />
+        <item
+            android:id="@+id/nav_peli5"
+            android:icon="@drawable/ic_r2d2"
+            android:title="@string/peli5" />
+        <item
+            android:id="@+id/nav_peli6"
+            android:icon="@drawable/ic_vader"
+            android:title="@string/peli6" />
+        <item
+            android:id="@+id/nav_peli7"
+            android:icon="@drawable/ic_deathstar"
+            android:title="@string/peli7" />
+    </group>
+
+
+</menu>

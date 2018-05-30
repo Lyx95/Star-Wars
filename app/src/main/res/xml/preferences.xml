@@ -1,0 +1,16 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/darkside_preferences"
+        android:key="general_settings">
+
+        <CheckBoxPreference
+            android:key="dark_side_preference"
+            android:title="@string/title_dark_side_preference"
+            android:summary="@string/summary_dark_side_preference" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
+

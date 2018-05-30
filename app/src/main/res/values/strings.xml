@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    //For drawer
+    <string name="titleDrawer">Star Wars</string>
+    <string name="subtitllDrawer">From swapi</string>
+
+    //For preferences
+    <string name="darkside_preferences">Dark Side</string>
+    <string name="title_dark_side_preference">Dark Side</string>
+    <string name="summary_dark_side_preference">Cambia la apriencia</string>
+    <string name="title_activity_prefs">PrefsActivity</string>
+
+    //For details
+    <string name="name">Nombre</string>
+    <string name="heigth">Heigth</string>
+    <string name="mass">Mass</string>
+    <string name="hair">Hair</string>
+    <string name="skin">Skin</string>
+    <string name="eye">Eye</string>
+    <string name="birth">Birth</string>
+    <string name="gender">Gender</string>
+    <string name="films">Film:</string>
+    <string name="vehicles">Vehicles:</string>
+    <string name="stars">Starships:</string>
+    <string name="specie">Specie</string>
+    <string name="unknown">Unknown</string>
+    <string name="home">Homeworld</string>
+
+    //Pelis
+    <string name="peli1">La amenaza fantasma</string>
+    <string name="peli2">El ataque de los clones</string>
+    <string name="peli3">La venganza de los Sith</string>
+    <string name="peli4">Una nueva esperanza</string>
+    <string name="peli5">El Imperio contraataca</string>
+    <string name="peli6">El retorno del Jedi</string>
+    <string name="peli7">El despertar de la Fuerza</string>
+    <string name="personajes">Personajes</string>
+</resources>
